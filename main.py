@@ -78,7 +78,7 @@ prompt = """
 }
 </回答>
 """
-
+#{"role": "system", "content": "你是一个帮助整理会议信息的AI"},
 filled_prompt = (
     prompt.replace("{{WORK_REPORT}}", work_report)
 )
