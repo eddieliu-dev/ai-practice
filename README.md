@@ -1,1 +1,1 @@
-This is a project used for practicing ai models.
+This is a project used for practicing and understanding ai models.
