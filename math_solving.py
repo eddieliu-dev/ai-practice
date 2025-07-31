@@ -3,7 +3,7 @@ import asyncio
 import json
 
 API_URL = "https://ark.cn-beijing.volces.com/api/v3/chat/completions"
-API_KEY = "fa4b58db-adb8-4d91-9181-0984840a1362"
+API_KEY = "" # 火山引擎
 
 headers = {
     "Content-Type": "application/json",
